@@ -17,7 +17,8 @@ Merhaba benim adım Bilge. Ba-Boost-Ank-5 öğrencisiyim.
 
 
 ### Sınıf Listesi
-- Github adı : galipyildiz. [Galip Yıldız](https://github.com/galipyildiz)
+- Github adı : yigith [Yiğit Hacıefendioğlu](https://github.com/yigith)
+- Github adı : galipyildiz [Galip Yıldız](https://github.com/galipyildiz)
 - Github adı : BilgehanArici [Bilgehan Arıcı](https://github.com/BilgehanArici)
 - Github adı : MAliRagipCakir [Muhammed Ali Ragıp Çakır](https://github.com/MAliRagipCakir)
 - Github adı : sinaemre [Sina Emre](https://github.com/sinaemre)
